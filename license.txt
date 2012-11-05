@@ -1,4 +1,7 @@
 This fork is declared as public domain.  
+
+There are no restrictions on its use. 
+
 The fork orginates from https://github.com/dmitryf/elements on 2012-11-05 at which time the original repository was without documented license restriction.
 
 
